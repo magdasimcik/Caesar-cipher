@@ -1,2 +1,2 @@
-# Caesar-cipher
-Caesar cipher encoding and decoding
+# Caesar cipher
+Encoding and decoding the embedded text using Caesar cipher.
